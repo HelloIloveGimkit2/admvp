@@ -1,5 +1,5 @@
-![SH1MMER (light)](/assets/sh1mmer_light_banner.png#gh-dark-mode-only)
-![SH1MMER (dark)](/assets/sh1mmer_dark_banner.png#gh-light-mode-only)
+![SH1MMER (light)](/assets/ADMVP_light_banner.png#gh-dark-mode-only)
+![SH1MMER (dark)](/assets/ADMVP_dark_banner.png#gh-light-mode-only)
 
 ### Shady Hardware 1nstrument Makes Machine Enrollment Retreat
 _Website, source tree, and write-up for a ChromeOS™️ enrollment jailbreak_
